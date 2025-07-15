@@ -50,6 +50,14 @@ Building fast, scalable, and modern web apps with the latest tech.
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)  
 
+#### **Headless CMS & Content Tools**  
+![Strapi](https://img.shields.io/badge/-Strapi-4945FF?logo=strapi&logoColor=white)
+![Directus](https://img.shields.io/badge/-Directus-26A269?logo=directus&logoColor=white)
+![Contentful](https://img.shields.io/badge/-Contentful-2478CC?logo=contentful&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion_CMS-000000?logo=notion&logoColor=white)  
+![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?logo=sanity&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
+
 #### **AI Integrations**  
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
 ![Deepseek](https://img.shields.io/badge/-Deepseek-0D9276?logo=deepseek&logoColor=white)  
