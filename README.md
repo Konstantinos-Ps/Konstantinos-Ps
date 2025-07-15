@@ -32,7 +32,8 @@ Building fast, scalable, and modern web apps with the latest tech.
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?logo=appwrite&logoColor=white)
 ![PocketBase](https://img.shields.io/badge/-PocketBase-5C45FF?logo=pocketbase&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?logo=reactquery&logoColor=white)
 
 #### <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="20" height="20" alt="Docker"/> **DevOps & Deployment**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
