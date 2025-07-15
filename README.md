@@ -50,6 +50,13 @@ Building fast, scalable, and modern web apps with the latest tech.
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)  
 
+#### **AI Integrations**  
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
+![Deepseek](https://img.shields.io/badge/-Deepseek-0D9276?logo=deepseek&logoColor=white)  
+![Anthropic](https://img.shields.io/badge/-Anthropic-343434?logo=anthropic&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/-OpenRouter-5C45FF?logo=openrouter&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-00A67D?logo=langchain&logoColor=white)
+
 ---
 
 ### 🔥 **Current Focus**  
